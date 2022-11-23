@@ -1,0 +1,15 @@
+402a79c60f931e4edc78bca1bcf274e5 *DESCRIPTION
+9ab3112f7c1045296d9ebbb5b87eb5a6 *NAMESPACE
+4dccb65a89a0b0e10d0844b050e81258 *NEWS.md
+cd7857f4d30441c6ac82225cf3c8ace7 *R/fetch_facebookleads.R
+0849cfc1faff39cf1c58c1943092d6f0 *R/my_facebookleads_data.R
+3d77fe95cb4b0412b71210a03b242e0f *README.md
+faa7af1f7e33a44b658b735e629d90e6 *build/vignette.rds
+cb6069d9e0edd2de99cba4dff53dc5e8 *data/my_facebookleads_data.RData
+9dee2aba4a2c71614f18c2f98b300a57 *inst/doc/tutorial.R
+1677ea86bb1b6567b1b0772e6b6b4ae5 *inst/doc/tutorial.Rmd
+e5fc021f609e7b4488c169a9779f5bb6 *inst/doc/tutorial.html
+a55b026cc7f376243bf0d66b30f38050 *man/fetch_facebookleads.Rd
+1ac148649f58204863add16e1173d17a *man/my_facebookleads_data.Rd
+cb6069d9e0edd2de99cba4dff53dc5e8 *vignettes/my_facebookleads_data.RData
+1677ea86bb1b6567b1b0772e6b6b4ae5 *vignettes/tutorial.Rmd
